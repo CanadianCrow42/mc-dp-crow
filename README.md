@@ -1,2 +1,2 @@
-# mc-dp-necromancy
-The "Necromancy Data Pack" Data Pack!
+# mc-dp-boss-fight-test
+A test bossfight.
